@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ShoppingElf</string>
+
+    <string name="categories">Choose a category...</string>
+
+    <string-array name="category_array">
+        <item>Food and Grocery</item>
+        <item>Electronics and Office</item>
+        <item>Books and Movies</item>
+        <item>Clothing and Jewelry</item>
+        <item>Office Supplies</item>
+        <item>Kids and Baby Toys</item>
+        <item>Sports and Outdoor</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="ItemHandlerInterfaceExpception">The activity does not implement the ItemHandlerInterface</string>
+    <string name="edit_shopping">Edit Shopping Item</string>
+    <string name="finish">Finish</string>
+    <string name="new_shopping_item">New Shopping Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="name_limit">The name cannot be over 10 characters</string>
+    <string name="empty_field">This field cannot be empty</string>
+    <string name="create_item_tutorial">Click here to create a new item!</string>
+    <string name="new_item_tutorial">New item</string>
+    <string name="delete_all_items">Delete All Items</string>
+    <string name="toggle_night_mode">Toggle Night Mode</string>
+    <string name="show_total_expenses">Show Total Expenses</string>
+    <string name="bought">Bought?</string>
+    <string name="edit">Edit</string>
+    <string name="name">Title</string>
+    <string name="price">Price($)</string>
+    <string name="description">Description</string>
+    <string name="item_db">item.db</string>
+    <string name="price_error">Price must be filled in.</string>
+    <string name="total_expenses">Total expenses: %d</string>
+</resources>

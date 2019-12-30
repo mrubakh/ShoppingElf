@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00753A</color>
+    <color name="colorPrimaryDark">#B6FFB6</color>
+    <color name="colorAccent">#000000</color>
+    <color name="animationBackground">#FFFFFF</color>
+    <color name="priceColor">#000000</color>
+
+</resources>

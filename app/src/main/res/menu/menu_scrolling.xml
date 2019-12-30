@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hu.ait.todorecylerviewdemo.hu.ait.itemrecylerviewdemo.ScrollingActivity">
+
+    <item
+        android:id="@+id/action_deleteAll"
+        android:orderInCategory="100"
+        android:title="@string/delete_all_items"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_nightmode"
+        android:orderInCategory="100"
+        android:title="@string/toggle_night_mode"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_showTotalExpenses"
+        android:orderInCategory="100"
+        android:title="@string/show_total_expenses"
+        app:showAsAction="never" />
+
+</menu>
